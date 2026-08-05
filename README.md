@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Recursion
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Abhishekcod1e/LeetCode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [3945-digit-frequency-score](https://github.com/Abhishekcod1e/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -76,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
