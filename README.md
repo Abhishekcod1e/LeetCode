@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
