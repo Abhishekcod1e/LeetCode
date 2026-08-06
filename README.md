@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
 | [3945-digit-frequency-score](https://github.com/Abhishekcod1e/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Abhishekcod1e/LeetCode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
