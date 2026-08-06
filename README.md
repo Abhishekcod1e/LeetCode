@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2413-smallest-even-multiple](https://github.com/Abhishekcod1e/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Abhishekcod1e/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishekcod1e/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishekcod1e/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishekcod1e/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Abhishekcod1e/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
