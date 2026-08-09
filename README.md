@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Abhishekcod1e/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhishekcod1e/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Abhishekcod1e/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhishekcod1e/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
