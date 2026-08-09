@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
+| [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Abhishekcod1e/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishekcod1e/LeetCode/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
