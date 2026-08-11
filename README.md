@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhishekcod1e/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekcod1e/LeetCode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
