@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Abhishekcod1e/LeetCode/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
 | [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekcod1e/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Abhishekcod1e/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Abhishekcod1e/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abhishekcod1e/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhishekcod1e/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Abhishekcod1e/LeetCode/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekcod1e/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
