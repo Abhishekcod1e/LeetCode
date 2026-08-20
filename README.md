@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekcod1e/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishekcod1e/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishekcod1e/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishekcod1e/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Abhishekcod1e/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishekcod1e/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Abhishekcod1e/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
