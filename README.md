@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhishekcod1e/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Abhishekcod1e/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishekcod1e/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Abhishekcod1e/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishekcod1e/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
