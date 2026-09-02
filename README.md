@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Abhishekcod1e/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
