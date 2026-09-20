@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Abhishekcod1e/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abhishekcod1e/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhishekcod1e/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishekcod1e/LeetCode/tree/master/0204-count-primes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abhishekcod1e/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Abhishekcod1e/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhishekcod1e/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
