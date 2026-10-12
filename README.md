@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishekcod1e/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhishekcod1e/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Abhishekcod1e/LeetCode/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishekcod1e/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
