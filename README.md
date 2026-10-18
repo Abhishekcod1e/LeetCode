@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0344-reverse-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Abhishekcod1e/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekcod1e/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Abhishekcod1e/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishekcod1e/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Abhishekcod1e/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishekcod1e/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Abhishekcod1e/LeetCode/tree/master/3701-compute-alternating-sum) |
