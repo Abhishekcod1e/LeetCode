@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishekcod1e/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Abhishekcod1e/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Abhishekcod1e/LeetCode/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/Abhishekcod1e/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishekcod1e/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhishekcod1e/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Abhishekcod1e/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3895-count-digit-appearances](https://github.com/Abhishekcod1e/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Abhishekcod1e/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
