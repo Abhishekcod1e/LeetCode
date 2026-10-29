@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Abhishekcod1e/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Abhishekcod1e/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhishekcod1e/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhishekcod1e/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0338-counting-bits) |
