@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishekcod1e/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0912-sort-an-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Abhishekcod1e/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishekcod1e/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/Abhishekcod1e/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/Abhishekcod1e/LeetCode/tree/master/2413-smallest-even-multiple) |
