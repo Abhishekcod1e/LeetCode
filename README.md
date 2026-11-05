@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abhishekcod1e/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishekcod1e/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhishekcod1e/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Abhishekcod1e/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
