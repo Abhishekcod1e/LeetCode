@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishekcod1e/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhishekcod1e/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishekcod1e/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhishekcod1e/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/Abhishekcod1e/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Abhishekcod1e/LeetCode/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishekcod1e/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishekcod1e/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bucket Sort
