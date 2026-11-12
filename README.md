@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhishekcod1e/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Abhishekcod1e/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishekcod1e/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhishekcod1e/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Abhishekcod1e/LeetCode/tree/master/0367-valid-perfect-square) |
