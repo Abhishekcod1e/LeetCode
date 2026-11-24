@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhishekcod1e/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Abhishekcod1e/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekcod1e/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3110-score-of-a-string](https://github.com/Abhishekcod1e/LeetCode/tree/master/3110-score-of-a-string) |
 ## Binary Search
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhishekcod1e/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Abhishekcod1e/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishekcod1e/LeetCode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Abhishekcod1e/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Minimax
 |  |
 | ------- |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishekcod1e/LeetCode/tree/master/0020-valid-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Abhishekcod1e/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
